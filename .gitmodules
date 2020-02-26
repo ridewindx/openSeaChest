@@ -1,12 +1,13 @@
 [submodule "opensea-common"]
 	path = opensea-common
-	url = ../opensea-common.git
+	url = https://github.com/openebs/opensea-common.git
 [submodule "opensea-transport"]
 	path = opensea-transport
 	url = ../opensea-transport.git
+	branch = filcloud-Release-19.06.02
 [submodule "opensea-operations"]
 	path = opensea-operations
-	url = ../opensea-operations.git
+	url = https://github.com/openebs/opensea-operations.git
 [submodule "wingetopt"]
 	path = wingetopt
 	url = https://github.com/Seagate/wingetopt.git
